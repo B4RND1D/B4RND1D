@@ -6,8 +6,8 @@
 
 <img src="/images/Developer.gif" alt="developer gif"  height="45px"> About me:
 
-* 👀 I’m a Cyber Security Engineer
-* 📚 Currently focusing on Vulnerability Management, Endpoint Detection and Automation
+* 👀 Cyber Security Engineer
+* 📚 Currently focusing on Cloud Security
 
 
 # 🔧 Technologies
