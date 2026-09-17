@@ -15,12 +15,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell,py,git" />
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,docker" />
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure" />
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=md,obsidian,sublime,discord,ai" />
   </a>
