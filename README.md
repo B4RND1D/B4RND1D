@@ -10,9 +10,18 @@
 * 📚 Currently focusing on Cloud Security
 
 
-# 🔧 Technologies
+# Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,linux,powershell,py" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,py,git" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,docker" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,obsidian,sublime,discord,ai" />
   </a>
 </p>
